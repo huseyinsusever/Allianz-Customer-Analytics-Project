@@ -15,3 +15,6 @@ database_setup.sql: Veritabanı ve tablo kurulum kodları.
 ● Allianz_Analiz_Local.ipynb: Yerel bilgisayardaki SQL bağlantılı analiz dosyası yani jupyter
 ● Allianz_Analiz_Colab.ipynb: Google Colab üzerinden GPU hızlandırmalı eğitim dosyası.
 ● Proje_Ozeti.pdf: Projenin teknik raporu ve görsel sonuçları
+● Allianz_Analiz_Local.ipynb: SQL-connected analysis file on the local computer, i.e., Jupyter.
+● Allianz_Analiz_Colab.ipynb: GPU-accelerated training file via Google Colab.
+● Proje_Summary.pdf: Technical report and visual results of the project.
